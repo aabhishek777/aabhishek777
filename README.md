@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on MERN Stack Project
+- 🔭 I’m DEVELOPER
 - 🌱 I’m currently learning Web DEvelopment
 - 👯 I’m looking to collaborate on Development
 - 🤔 I’m looking for help with Discord Clone App Development 
