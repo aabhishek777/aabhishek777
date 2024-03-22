@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m DEVELOPER
-- 🌱 I’m currently learning Web DEvelopment
+- 🔭 I am a Software Engineer
+- 🌱 I’m currently working in field of Web DEvelopment
 - 👯 I’m looking to collaborate on Development
 - 🤔 I’m looking for help with Discord Clone App Development 
 - 📫 How to reach me: Email: aabhishekksinghh@gmail.com
